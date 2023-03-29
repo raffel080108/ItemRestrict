@@ -1,7 +1,7 @@
 /*
  *   Copyright 2023 Raphael Roehrig (alias "raffel080108"). All rights reserved.
  *   Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
- *   You may not use any content of this file or software except in compliance with the license.
+ *   You may not use any contents of this file or software except in compliance with the license.
  *   You can obtain a copy of the license at https://creativecommons.org/licenses/by-nc/4.0/legalcode
  */
 
