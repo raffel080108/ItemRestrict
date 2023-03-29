@@ -1,5 +1,0 @@
-# List format - Format: (item-name):(maximum-amount)
-# Use UPPERCASE format and underscores ("_") for item names
-restricted-items:
-  TOTEM_OF_UNDYING: 2
-  GOLDEN_APPLE: 16
