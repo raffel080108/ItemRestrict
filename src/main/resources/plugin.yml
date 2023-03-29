@@ -1,5 +1,0 @@
-name: ItemRestrict
-version: '${project.version}'
-main: raffel080108.itemrestrict.ItemRestrict
-api-version: 1.19
-authors: [ raffel080108 ]
