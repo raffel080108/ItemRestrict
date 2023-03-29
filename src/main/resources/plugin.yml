@@ -3,3 +3,12 @@ version: '${project.version}'
 main: raffel080108.itemrestrict.ItemRestrict
 api-version: 1.19
 authors: [ raffel080108 ]
+
+permissions:
+  itemrestrict.*:
+    description: Grants all plugin-related permissions
+    children:
+      itemrestrict.reload:
+        description: Grants permission to reload the plugin's configuration
+      itemrestrict.bypass:
+        description: Grants permission to bypass restrictions
